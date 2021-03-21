@@ -1,3 +1,3 @@
 # JavaProject  -  CLI Dictionary application
 
-## student  - Kalmyrza Zholchubekov
+student  - Kalmyrza Zholchubekov
