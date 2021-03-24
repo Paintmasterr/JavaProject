@@ -4,3 +4,6 @@ words into a file.
 
 
 ### student  - Kalmyrza Zholchubekov
+
+
+![alt text](Screenshots/Снимок экрана (102).png "")
