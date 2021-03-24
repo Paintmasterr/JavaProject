@@ -15,3 +15,8 @@ words into a file.
 
 2.
 ![Снимок экрана (103)](https://user-images.githubusercontent.com/73210960/112343632-84ea0880-8ced-11eb-84e8-96a27ce8f6f1.png)
+
+
+3.
+![Снимок экрана (104)](https://user-images.githubusercontent.com/73210960/112343876-bf53a580-8ced-11eb-88bd-93df5765e4b5.png)
+
