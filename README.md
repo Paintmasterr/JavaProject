@@ -6,7 +6,7 @@ words into a file.
 ### student  - Kalmyrza Zholchubekov
 
 
-
+link to youtube [https://youtu.be/SS0IVa4FfOo]
 
 
 1. User menu in Main class. It is Add function - to add new word and its translation.
