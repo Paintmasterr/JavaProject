@@ -1,4 +1,6 @@
 # JavaProject  -  CLI Dictionary application
-Simple Program for storing words and their transtlations
+This is a saveable program which can store words and their translations, it can add, delete, change and save new 
+words into a file.
 
-student  - Kalmyrza Zholchubekov
+
+### student  - Kalmyrza Zholchubekov
