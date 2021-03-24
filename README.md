@@ -10,17 +10,18 @@ words into a file.
 
 
 1. User menu in Main class. It is Add function - to add new word and its translation.
-![Снимок экрана (102)](https://user-images.githubusercontent.com/73210960/112339958-5159af00-8cea-11eb-80d5-796eca615e18.png)
+![Снимок экрана (106)](https://user-images.githubusercontent.com/73210960/112352307-db0e7a00-8cf4-11eb-9f6d-3ba0aaee2573.png)
 
 
 2. Now we can use Save function to save our words to the txt file that we create in Dictionary folder.
-![Снимок экрана (103)](https://user-images.githubusercontent.com/73210960/112343632-84ea0880-8ced-11eb-84e8-96a27ce8f6f1.png)
+![Снимок экрана (107)](https://user-images.githubusercontent.com/73210960/112352507-04c7a100-8cf5-11eb-8156-4e4d336094fb.png)
 
 
 3. There is Delete fuction to delete words from txt file. And if we print deleted words we will see null.
-![Снимок экрана (104)](https://user-images.githubusercontent.com/73210960/112343876-bf53a580-8ced-11eb-88bd-93df5765e4b5.png)
+![Снимок экрана (108)](https://user-images.githubusercontent.com/73210960/112352620-1d37bb80-8cf5-11eb-92ac-9ba6c193b15e.png)
 
 
-4. 
-![Снимок экрана (105)](https://user-images.githubusercontent.com/73210960/112344018-e14d2800-8ced-11eb-8af3-691b73ecb075.png)
+4. And also there is a function translate which translates a word in dictionary file.
+![Снимок экрана (109)](https://user-images.githubusercontent.com/73210960/112352709-33457c00-8cf5-11eb-839a-4787d4e2e3bb.png)
+
 
